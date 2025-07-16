@@ -1,4 +1,5 @@
-# Create Stunning Cinematic AI Portraits Using a Smart Image Prompt
+# Day01: Create Stunning Cinematic AI Portraits Using a Smart Image Prompt
+
 
 ## Universal Prompt:
 
